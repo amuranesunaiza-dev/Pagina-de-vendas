@@ -5,7 +5,7 @@ const HERO_IMAGE = heroImage;
 
 export default function Hero() {
   const handleCTA = () => {
-    window.location.href = '#checkout';
+    window.location.href = 'https://pay.hotmart.com/H104270211F';
   };
 
   return (

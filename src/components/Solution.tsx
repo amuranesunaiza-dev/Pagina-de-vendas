@@ -30,7 +30,7 @@ export default function Solution() {
   ];
 
   const handleCTA = () => {
-    window.location.href = '#checkout';
+    window.location.href = 'https://pay.hotmart.com/H104270211F';
   };
 
   return (

@@ -29,7 +29,7 @@ export default function FlashSaleCountdown() {
   }, []);
 
   const handleCTA = () => {
-    window.location.href = '#checkout';
+    window.location.href = 'https://pay.hotmart.com/H104270211F';
   };
 
   if (timeLeft.finished) {
